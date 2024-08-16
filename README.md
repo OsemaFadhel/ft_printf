@@ -1,4 +1,4 @@
-<h1>ft_printf</h1> <h2 align='right'>Final Grade 100/125 ✅ </h2>
+<h1>ft_printf 💻🖨️</h1> <h2 align='right'>Final Grade 100/125 ✅ </h2>
 
 This project includes a custom implementation of a printf-like function in C, named ft_printf. </br>
 The ft_printf function is a function that processes a formatted string and a variable number of arguments, converting and outputting the arguments based on the specified format.
